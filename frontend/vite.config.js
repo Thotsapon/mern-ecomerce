@@ -9,6 +9,9 @@ export default defineConfig({
 			"/api": {
 				target: "http://localhost:5000",
 			},
+		build: {
+    		outDir: 'out', // Change 'my-custom-build-folder' to your desired directory name
+  		},
 		},
 	},
 });
