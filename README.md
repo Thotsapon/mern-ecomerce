@@ -1,8 +1,7 @@
-<h1 align="center">E-Commerce Store 🛒</h1>
+<h1 align="center">Car shop🛒</h1>
 
+![Demo App](/frontend/images/example.png)
 
-
-[Video Tutorial on Youtube](https://youtu.be/sX57TLIPNx8)
 
 About This Course:
 
