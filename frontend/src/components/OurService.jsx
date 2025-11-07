@@ -43,7 +43,7 @@ function ContentDetail() {
 
         <div className="bg-white rounded-lg shadow-xl overflow-hidden transition duration-300 ease-in-out transform hover:scale-[1.02]">
             <div className="overflow-hidden">
-                <img className="object-scale-down w-full h-48 object-cover" src={oil} alt="Furniture Remodeling"/>
+                <img className="object-scale-down w-full h-48" src={oil} alt="Furniture Remodeling"/>
             </div>
             <div className="p-6 text-center border-t-4 border-gray-100">
                 <h4 className="text-xl font-semibold mb-3 text-black" >Oil change</h4>
@@ -56,7 +56,7 @@ function ContentDetail() {
 
         <div className="bg-white rounded-lg shadow-xl overflow-hidden transition duration-300 ease-in-out transform hover:scale-[1.02]">
             <div className="overflow-hidden">
-                <img className="object-scale-down w-full h-48 object-cover" src={battery} alt="Wooden Floor"/>
+                <img className="object-scale-down w-full h-48" src={battery} alt="Wooden Floor"/>
             </div>
             <div className="p-6 text-center border-t-4 border-gray-100">
                 <h4 className="text-xl font-semibold mb-3 text-black">Battery services</h4>
@@ -69,7 +69,7 @@ function ContentDetail() {
 
         <div className="bg-white rounded-lg shadow-xl overflow-hidden transition duration-300 ease-in-out transform hover:scale-[1.02]">
             <div className="overflow-hidden">
-                <img className="object-scale-down w-full h-48 object-cover" src={tire} alt="Wooden Furniture"/>
+                <img className="object-scale-down w-full h-48 " src={tire} alt="Wooden Furniture"/>
             </div>
             <div className="p-6 text-center border-t-4 border-gray-100">
                 <h4 className="text-xl font-semibold mb-3">Tire change</h4>
@@ -82,7 +82,7 @@ function ContentDetail() {
 
         <div className="bg-white rounded-lg shadow-xl overflow-hidden transition duration-300 ease-in-out transform hover:scale-[1.02]">
             <div className="overflow-hidden">
-                <img className="object-scale-down w-full h-48 object-cover" src={brake} alt="Custom Work"/>
+                <img className="object-scale-down w-full h-48 " src={brake} alt="Custom Work"/>
             </div>
             <div className="p-6 text-center border-t-4 border-gray-100">
                 <h4 className="text-xl font-semibold mb-3">Brake change</h4>
