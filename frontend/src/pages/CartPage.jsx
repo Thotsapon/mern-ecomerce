@@ -24,9 +24,9 @@ const CartPage = () => {
 							<EmptyCartUI />
 						) : (
 							<div className='space-y-6'>
-								{/*cart.map((item) => (
+								{cart.map((item) => (
 									<CartItem key={item._id} item={item} />
-								))*/}
+								))}
 							</div>
 						)}
 						{cart.length > 0 && <PeopleAlsoBought />}
