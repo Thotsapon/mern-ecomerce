@@ -7,7 +7,7 @@ export default defineConfig({
 	server: {
 		proxy: {
 			"/api": {
-				target: "https://mern-ecomerce.pages.dev",
+				target: "http://localhost:4321",
 			},
 		},
 	},
